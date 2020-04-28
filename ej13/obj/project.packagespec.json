@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej13\\ej13.fsproj",
+    "projectUniqueName": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej13\\ej13.fsproj",
     "projectName": "ej13",
-    "projectPath": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej13\\ej13.fsproj",
-    "outputPath": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej13\\obj\\",
+    "projectPath": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej13\\ej13.fsproj",
+    "outputPath": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej13\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

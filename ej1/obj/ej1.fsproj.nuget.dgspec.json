@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej1\\ej1.fsproj": {}
+    "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej1\\ej1.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej1\\ej1.fsproj": {
+    "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej1\\ej1.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej1\\ej1.fsproj",
+        "projectUniqueName": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej1\\ej1.fsproj",
         "projectName": "ej1",
-        "projectPath": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej1\\ej1.fsproj",
+        "projectPath": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej1\\ej1.fsproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej1\\obj\\",
+        "outputPath": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -112,11 +112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej12\\ej12.fsproj",
+      "projectUniqueName": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej12\\ej12.fsproj",
       "projectName": "ej12",
-      "projectPath": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej12\\ej12.fsproj",
+      "projectPath": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej12\\ej12.fsproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\Documents\\prolog\\ejPDF\\ej12\\obj\\",
+      "outputPath": "C:\\Users\\anton\\Documents\\prolog\\ejerciciosProlog\\ej12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
