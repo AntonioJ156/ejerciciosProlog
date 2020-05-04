@@ -53,9 +53,75 @@
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.fs" t="Include" />
       </e>
+      <e p="ej18" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej18.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej19" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej19.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
       <e p="ej2" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ej2.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej20" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej20.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej21" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej21.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej22" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej22.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej23" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej23.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej24" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej24.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej25" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej25.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej26" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej26.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej27" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej27.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej28" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej28.fsproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.fs" t="Include" />
       </e>

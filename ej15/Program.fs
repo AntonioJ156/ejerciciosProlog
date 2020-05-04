@@ -2,13 +2,13 @@
 
 open System
 
-let rec rep cont acu=
-    match cont with
-        | 11 -> acu
+let rec rep i nom=
+    match i with
+        | 11 -> nom
         | _ ->
             printf "SUE: "
             let sue = Convert.ToInt32(Console.ReadLine())
-            rep (cont + 1)(acu + sue)
+            rep (i + 1)(nom + sue)
 
 let prnt ()=
     let res = rep 1 0

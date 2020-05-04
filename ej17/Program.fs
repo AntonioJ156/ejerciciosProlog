@@ -2,17 +2,22 @@
 
 open System
 
-let rec rep acu sum=
+let input () =
+    printf "gasto: "
+    let n = Convert.ToInt32(Console.ReadLine())
+    n
+
+let rec rep sumGas=
+    let gasto = input()
     match gasto with
-        | gasto when gasto <> -1 -> acu
+        | gasto when gasto <> -1 -> sumGas
         | _ ->
             printf "SUE: "
             let sue = Convert.ToInt32(Console.ReadLine())
-            rep (sum + gasto) gasto
+            rep (sumGas + gasto)
 
 let prnt ()=
-    let gasto = Convert.ToInt32(Console.ReadLine())
-    let res = rep 0 gasto
+    let res = rep 0
     printfn "%A" res
 
 prnt()

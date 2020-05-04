@@ -8,14 +8,14 @@ let input ()=
     let n = Convert.ToInt32(Console.ReadLine())
     n
 
-let rec rep cont acu n=
-    match cont with
-        | cont when cont <= n -> acu
+let rec rep i cuecer n=
+    match i with
+        | cont when cont <= n -> cuecer
         | _ ->
             let num = input()
             if num = 0
-                then rep (cont + 1)(acu + 1) n
-            else rep (cont + 1) acu n
+                then rep (i + 1)(cuecer + 1) n
+            else rep (i + 1) cuecer n
 
 let prnt ()=
     let n =  input()
