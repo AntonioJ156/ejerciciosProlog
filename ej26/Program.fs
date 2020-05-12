@@ -13,11 +13,11 @@ let rec rep pri seg sigi i =
     | 181 -> printf "%A" sigi
     | _ ->
         let sigiDos = pri+seg
-        printfn "%A" sigiDos
+        //printfn "%A" sigiDos
         let priDos = seg
-        let segDos = sigi
+        let segDos = sigiDos
         rep seg sigi (pri+seg) (i+1)
 
-rep 0 1 1 3
+rep 0.0 1.0 0.0 3
 
 let tmp = Console.ReadLine()
