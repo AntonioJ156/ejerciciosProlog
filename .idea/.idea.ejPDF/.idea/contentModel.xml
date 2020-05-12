@@ -125,9 +125,27 @@
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.fs" t="Include" />
       </e>
+      <e p="ej29" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej29.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
       <e p="ej3" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ej3.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej30" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej30.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="ej31" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ej31.fsproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.fs" t="Include" />
       </e>
